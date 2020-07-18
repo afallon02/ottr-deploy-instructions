@@ -21,7 +21,6 @@ Connect to or create a new database, then open a SQL Editor. Then paste in the S
 ## Running the API.
 Download the ottr-api [here](https://github.com/afallon02/ottr-api).
 
-
 Follow the instructions in the [README](https://github.com/afallon02/ottr-web/blob/master/README.md) to run.
 
 ## Running the web-app
