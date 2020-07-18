@@ -2,6 +2,8 @@
 
 Ottr is made up of 4 parts, the database (ottr-db), the backend (ottr-api), the web-app (ottr-web) and the iOS app (ottr-ios).
 
+If you would like to read about Ottr, how it failed as a start-up and why i've open source it read [here](https://adamfallon.com/2020/07/18/my-failed-start-up/) 
+
 For the API to work, it needs the database. For the iOS and Web apps to work, they need the api.
 
 So the database is the first thing we need to setup.
